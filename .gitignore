@@ -1,5 +1,6 @@
 # Virtual environment
 env/
+venv/
 
 # Python cache
 __pycache__/
@@ -7,8 +8,12 @@ __pycache__/
 
 # Reports (generated HTML)
 reporte_*.html
-env/reporte_*.html
-empresas/reporte_*.html
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # OS files
 .DS_Store
