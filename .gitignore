@@ -1,0 +1,15 @@
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Reports (generated HTML)
+reporte_*.html
+env/reporte_*.html
+empresas/reporte_*.html
+
+# OS files
+.DS_Store
+Thumbs.db
